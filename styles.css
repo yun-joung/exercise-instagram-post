@@ -1,0 +1,47 @@
+body{
+    background: black;
+    font-family: 'Lato', sans-serif;;
+}
+.container {
+    width:500px;
+    height:auto;
+    background-color: white;
+    margin-top: 200px;
+    margin:auto;
+    padding-bottom: 30px;
+}
+.row, .row-icon,.row-coment {
+    width: 460px;
+    padding-left: 1rem;
+    display:inline-block;
+}
+.logo{ 
+    padding-top:0.8rem;
+    font-size:35px;
+    float:left;
+}
+.logo-2{ 
+    float:left;
+    padding:none;
+    margin-left:0.8rem;
+    margin-top:0;
+}
+.menu{
+    padding-top:0.8rem;
+    float:right;
+    font-size: 30px;
+}
+img {
+    width:500px;   
+}
+.row-icon{
+    padding-top:1rem;
+    font-size: 30px;
+    display: inline-block;
+}
+.row-icon-left{
+    float: left;
+}
+.row-icon-right{
+    float: right;
+}
